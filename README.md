@@ -1,2 +1,1 @@
-# Python-class-tutorial
-class
+# Python-class-practice
